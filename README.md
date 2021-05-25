@@ -1,2 +1,13 @@
-# SensorDeCor
- Esse repositório contém o código necessário para o funcionamento do sensor de cor TCS3200 com um Arduino.
+# Sensor De Cor (TCS3200):
+
+ Teste do sensor de cor em Arduino (UNO).
+ Este programa tem como funcionalidade exibir a cor no serial monitor conforme a cor detectada pelo sensor.
+
+ - Sensor: TCS3200
+ - Arduino: Uno
+
+
+# Dependências:
+
+Link para o site de referência usado neste projeto:
+- https://cluberobotica.wordpress.com/2017/11/12/tcs3200/
