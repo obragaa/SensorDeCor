@@ -13,6 +13,6 @@ Link para o site de referência usado neste projeto:
 - https://cluberobotica.wordpress.com/2017/11/12/tcs3200/
 
 
-# Conexões
+# Conexões:
 
 ![Exemplo de conexão](./img/example.PNG)
