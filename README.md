@@ -7,7 +7,7 @@
  - Arduino: Uno
 
 
-# Dependências:
+# Referências:
 
 Link para o site de referência usado neste projeto:
 - https://cluberobotica.wordpress.com/2017/11/12/tcs3200/
